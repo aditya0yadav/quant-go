@@ -8,3 +8,4 @@ include_directories(include)
 file(GLOB SOURCES "src/*.cpp")
 
 add_executable(backtester ${SOURCES})
+target_include_directories(backtester PRIVATE ${PROJECT_SOURCE_DIR}/include)

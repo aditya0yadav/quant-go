@@ -1,0 +1,8 @@
+{
+    "timestamp": { "name": "timestamp", "present": true },
+    "open": { "name": "open", "present": true },
+    "high": { "name": "high", "present": true },
+    "low": { "name": "low", "present": true },
+    "close": { "name": "close", "present": true },
+    "volume": { "name": "volume", "present": true }
+}

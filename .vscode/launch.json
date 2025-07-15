@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/myfantacyworld/Documents/quant-go/backtester/src",
+      "program": "/Users/myfantacyworld/Documents/quant-go/backtester/src/build/Debug/outDebug"
+    }
+  ]
+}
