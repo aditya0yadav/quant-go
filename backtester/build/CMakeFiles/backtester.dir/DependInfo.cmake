@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/myfantacyworld/Documents/quant-go/backtester/src/BacktestEngine.cpp" "CMakeFiles/backtester.dir/src/BacktestEngine.cpp.o" "gcc" "CMakeFiles/backtester.dir/src/BacktestEngine.cpp.o.d"
-  "/Users/myfantacyworld/Documents/quant-go/backtester/src/DataLoader.cpp" "CMakeFiles/backtester.dir/src/DataLoader.cpp.o" "gcc" "CMakeFiles/backtester.dir/src/DataLoader.cpp.o.d"
-  "/Users/myfantacyworld/Documents/quant-go/backtester/src/Parser.cpp" "CMakeFiles/backtester.dir/src/Parser.cpp.o" "gcc" "CMakeFiles/backtester.dir/src/Parser.cpp.o.d"
-  "/Users/myfantacyworld/Documents/quant-go/backtester/src/Strategy.cpp" "CMakeFiles/backtester.dir/src/Strategy.cpp.o" "gcc" "CMakeFiles/backtester.dir/src/Strategy.cpp.o.d"
-  "/Users/myfantacyworld/Documents/quant-go/backtester/src/main.cpp" "CMakeFiles/backtester.dir/src/main.cpp.o" "gcc" "CMakeFiles/backtester.dir/src/main.cpp.o.d"
+  "/workspaces/quant-go/backtester/src/BacktestEngine.cpp" "CMakeFiles/backtester.dir/src/BacktestEngine.cpp.o" "gcc" "CMakeFiles/backtester.dir/src/BacktestEngine.cpp.o.d"
+  "/workspaces/quant-go/backtester/src/DataLoader.cpp" "CMakeFiles/backtester.dir/src/DataLoader.cpp.o" "gcc" "CMakeFiles/backtester.dir/src/DataLoader.cpp.o.d"
+  "/workspaces/quant-go/backtester/src/Parser.cpp" "CMakeFiles/backtester.dir/src/Parser.cpp.o" "gcc" "CMakeFiles/backtester.dir/src/Parser.cpp.o.d"
+  "/workspaces/quant-go/backtester/src/Strategy.cpp" "CMakeFiles/backtester.dir/src/Strategy.cpp.o" "gcc" "CMakeFiles/backtester.dir/src/Strategy.cpp.o.d"
+  "/workspaces/quant-go/backtester/src/main.cpp" "CMakeFiles/backtester.dir/src/main.cpp.o" "gcc" "CMakeFiles/backtester.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

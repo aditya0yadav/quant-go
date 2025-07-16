@@ -5,7 +5,6 @@
 #include <string>
 #include <cmath>
 
-
 class Expression {
 public:
     virtual double evaluate(const DataPoint& dp, const std::vector<DataPoint>& history, size_t currentIndex) const = 0;

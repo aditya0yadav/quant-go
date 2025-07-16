@@ -29,8 +29,12 @@ void DataLoader::loadMapping(const std::string &configFile)
     f.close();
 }
 
-void DataLoader::loadCSV(const std::string &filename)
+void DataLoader::loadCSV(const std::string &filename, const std::string& symbolName, const std::string& tf)
 {
+    // Store symbol and timeframe as member variables
+    symbol = symbolName;
+    timeframe = tf;
+
     std::ifstream file(filename);
     if (!file.is_open())
     {
@@ -45,6 +49,7 @@ void DataLoader::loadCSV(const std::string &filename)
         return;
     }
 
+    // Parse header to map columns
     std::stringstream headerStream(line);
     std::string headerItem;
     int index = 0;
@@ -60,6 +65,7 @@ void DataLoader::loadCSV(const std::string &filename)
         index++;
     }
 
+    // Read each data line
     while (std::getline(file, line))
     {
         if (line.empty())
