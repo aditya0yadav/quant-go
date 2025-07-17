@@ -1,0 +1,4 @@
+{
+    "configPath": "../config/column_config.json",
+    "dataPath": "/workspaces/quant-go/backtester/data/BTCUSDT_big.csv"
+}

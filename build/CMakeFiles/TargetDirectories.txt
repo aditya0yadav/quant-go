@@ -1,0 +1,3 @@
+/workspaces/quant-go/build/CMakeFiles/backtester.dir
+/workspaces/quant-go/build/CMakeFiles/edit_cache.dir
+/workspaces/quant-go/build/CMakeFiles/rebuild_cache.dir

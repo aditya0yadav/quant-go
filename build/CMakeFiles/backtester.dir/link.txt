@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/backtester.dir/src/BacktestEngine.cpp.o CMakeFiles/backtester.dir/src/DataLoader.cpp.o CMakeFiles/backtester.dir/src/Parser.cpp.o CMakeFiles/backtester.dir/src/Strategy.cpp.o CMakeFiles/backtester.dir/src/main.cpp.o -o backtester 

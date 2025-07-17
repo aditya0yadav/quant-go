@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/workspaces/quant-go/build",
+  "command": "/usr/bin/g++  -I/workspaces/quant-go/backtester/include -g -std=gnu++17 -o CMakeFiles/backtester.dir/src/BacktestEngine.cpp.o -c /workspaces/quant-go/backtester/src/BacktestEngine.cpp",
+  "file": "/workspaces/quant-go/backtester/src/BacktestEngine.cpp",
+  "output": "CMakeFiles/backtester.dir/src/BacktestEngine.cpp.o"
+},
+{
+  "directory": "/workspaces/quant-go/build",
+  "command": "/usr/bin/g++  -I/workspaces/quant-go/backtester/include -g -std=gnu++17 -o CMakeFiles/backtester.dir/src/DataLoader.cpp.o -c /workspaces/quant-go/backtester/src/DataLoader.cpp",
+  "file": "/workspaces/quant-go/backtester/src/DataLoader.cpp",
+  "output": "CMakeFiles/backtester.dir/src/DataLoader.cpp.o"
+},
+{
+  "directory": "/workspaces/quant-go/build",
+  "command": "/usr/bin/g++  -I/workspaces/quant-go/backtester/include -g -std=gnu++17 -o CMakeFiles/backtester.dir/src/Parser.cpp.o -c /workspaces/quant-go/backtester/src/Parser.cpp",
+  "file": "/workspaces/quant-go/backtester/src/Parser.cpp",
+  "output": "CMakeFiles/backtester.dir/src/Parser.cpp.o"
+},
+{
+  "directory": "/workspaces/quant-go/build",
+  "command": "/usr/bin/g++  -I/workspaces/quant-go/backtester/include -g -std=gnu++17 -o CMakeFiles/backtester.dir/src/Strategy.cpp.o -c /workspaces/quant-go/backtester/src/Strategy.cpp",
+  "file": "/workspaces/quant-go/backtester/src/Strategy.cpp",
+  "output": "CMakeFiles/backtester.dir/src/Strategy.cpp.o"
+},
+{
+  "directory": "/workspaces/quant-go/build",
+  "command": "/usr/bin/g++  -I/workspaces/quant-go/backtester/include -g -std=gnu++17 -o CMakeFiles/backtester.dir/src/main.cpp.o -c /workspaces/quant-go/backtester/src/main.cpp",
+  "file": "/workspaces/quant-go/backtester/src/main.cpp",
+  "output": "CMakeFiles/backtester.dir/src/main.cpp.o"
+}
+]
